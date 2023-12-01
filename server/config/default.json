@@ -1,0 +1,5 @@
+{
+    "serverPort": 3500,
+    "dbUrl": "mongodb+srv://yumi:di10Ma13+4@cloud1.grvnuoc.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "mern-secket-key"
+}
